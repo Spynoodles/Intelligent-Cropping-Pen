@@ -18,8 +18,4 @@ PPTX was for the explanation during the demo and is a briefing on the project fo
 Rest of the explanation is provided in the video
 Kindly note that the video has a pause in it because i forgot to switch on the wifi hotspot :"( but it worked smoothly after that 
 
-ProjectName: Smart Cam Stylus
 
-TeamName:Taskforce141
-TeamMembers : Khushal 2022249 
-Do note this is a solo project
